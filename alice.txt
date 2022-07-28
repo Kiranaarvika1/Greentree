@@ -1,2 +1,4 @@
 Hi man yar how are you
 hello man 
+
+git cchanges pull method
